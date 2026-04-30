@@ -19,3 +19,5 @@ To calculate objective evaluation metrics, execute the metric_test.py script:
 bash
 python metric_test.py
 
+##############################################################################
+Any questions please contact to email: tminjie@yeah.com or gao_shaobing@163.com
